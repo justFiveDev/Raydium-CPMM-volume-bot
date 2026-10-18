@@ -200,9 +200,7 @@ Keypairs created by the bot are stored under `src/keypairs/<poolId>/`. Use **Ret
 
 ## Author & Contact
 
-- **Author**: microRustyme  
-- **Telegram**: [@microRustyme](https://t.me/microRustyme)  
-- **Project**: Raydium CPMM volume bot – auto volume for Raydium pools on Solana.
+fiv3fingers.dev@gmail.com
 
 ---
 
